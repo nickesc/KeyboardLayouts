@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ergo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1505 586.915">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #f16364;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <g id="Lily58">
+    <g>
+      <rect class="cls-1" x="2.5" y="232.5" width="100" height="100"/>
+      <rect class="cls-1" x="102.5" y="232.5" width="100" height="100"/>
+      <rect class="cls-1" x="202.5" y="217.5" width="100" height="100"/>
+      <rect class="cls-1" x="302.5" y="202.5" width="100" height="100"/>
+      <rect class="cls-1" x="402.5" y="217.5" width="100" height="100"/>
+      <rect class="cls-1" x="502.5" y="232.5" width="100" height="100"/>
+      <rect class="cls-1" x="2.5" y="132.5" width="100" height="100"/>
+      <rect class="cls-1" x="102.5" y="132.5" width="100" height="100"/>
+      <rect class="cls-1" x="202.5" y="117.5" width="100" height="100"/>
+      <rect class="cls-1" x="302.5" y="102.5" width="100" height="100"/>
+      <rect class="cls-1" x="402.5" y="117.5" width="100" height="100"/>
+      <rect class="cls-1" x="502.5" y="132.5" width="100" height="100"/>
+      <rect class="cls-1" x="2.5" y="32.5" width="100" height="100"/>
+      <rect class="cls-1" x="102.5" y="32.5" width="100" height="100"/>
+      <rect class="cls-1" x="202.5" y="17.5" width="100" height="100"/>
+      <rect class="cls-1" x="302.5" y="2.5" width="100" height="100"/>
+      <rect class="cls-1" x="402.5" y="17.5" width="100" height="100"/>
+      <rect class="cls-1" x="502.5" y="32.5" width="100" height="100"/>
+      <rect class="cls-1" x="302.5" y="302.5" width="100" height="100"/>
+      <rect class="cls-1" x="2.5" y="332.5" width="100" height="100"/>
+      <rect class="cls-1" x="102.5" y="332.5" width="100" height="100"/>
+      <rect class="cls-1" x="252.5" y="417.5" width="100" height="100"/>
+      <rect class="cls-1" x="352.5" y="417.5" width="100" height="100"/>
+      <rect class="cls-1" x="452.5" y="432.5" width="100" height="100"/>
+      <rect class="cls-1" x="202.5" y="317.5" width="100" height="100"/>
+      <rect class="cls-1" x="402.5" y="317.5" width="100" height="100"/>
+      <rect class="cls-1" x="502.5" y="332.5" width="100" height="100"/>
+      <rect class="cls-1" x="602.5" y="282.5" width="100" height="100"/>
+      <rect class="cls-1" x="594.519" y="418.548" width="100" height="150" transform="translate(333.123 -256.137) rotate(30)"/>
+    </g>
+    <g>
+      <rect class="cls-1" x="1402.5" y="232.5" width="100" height="100" transform="translate(2905 565) rotate(-180)"/>
+      <rect class="cls-1" x="1302.5" y="232.5" width="100" height="100" transform="translate(2705 565) rotate(-180)"/>
+      <rect class="cls-1" x="1202.5" y="217.5" width="100" height="100" transform="translate(2505 535) rotate(-180)"/>
+      <rect class="cls-1" x="1102.5" y="202.5" width="100" height="100" transform="translate(2305 505) rotate(-180)"/>
+      <rect class="cls-1" x="1002.5" y="217.5" width="100" height="100" transform="translate(2105 535) rotate(-180)"/>
+      <rect class="cls-1" x="902.5" y="232.5" width="100" height="100" transform="translate(1905 565) rotate(-180)"/>
+      <rect class="cls-1" x="1402.5" y="132.5" width="100" height="100" transform="translate(2905 365) rotate(-180)"/>
+      <rect class="cls-1" x="1302.5" y="132.5" width="100" height="100" transform="translate(2705 365) rotate(-180)"/>
+      <rect class="cls-1" x="1202.5" y="117.5" width="100" height="100" transform="translate(2505 335) rotate(-180)"/>
+      <rect class="cls-1" x="1102.5" y="102.5" width="100" height="100" transform="translate(2305 305) rotate(-180)"/>
+      <rect class="cls-1" x="1002.5" y="117.5" width="100" height="100" transform="translate(2105 335) rotate(-180)"/>
+      <rect class="cls-1" x="902.5" y="132.5" width="100" height="100" transform="translate(1905 365) rotate(-180)"/>
+      <rect class="cls-1" x="1402.5" y="32.5" width="100" height="100" transform="translate(2905 165) rotate(-180)"/>
+      <rect class="cls-1" x="1302.5" y="32.5" width="100" height="100" transform="translate(2705 165) rotate(-180)"/>
+      <rect class="cls-1" x="1202.5" y="17.5" width="100" height="100" transform="translate(2505 135) rotate(-180)"/>
+      <rect class="cls-1" x="1102.5" y="2.5" width="100" height="100" transform="translate(2305 105) rotate(-180)"/>
+      <rect class="cls-1" x="1002.5" y="17.5" width="100" height="100" transform="translate(2105 135) rotate(-180)"/>
+      <rect class="cls-1" x="902.5" y="32.5" width="100" height="100" transform="translate(1905 165) rotate(-180)"/>
+      <rect class="cls-1" x="1102.5" y="302.5" width="100" height="100" transform="translate(2305 705) rotate(-180)"/>
+      <rect class="cls-1" x="1402.5" y="332.5" width="100" height="100" transform="translate(2905 765) rotate(-180)"/>
+      <rect class="cls-1" x="1302.5" y="332.5" width="100" height="100" transform="translate(2705 765) rotate(-180)"/>
+      <rect class="cls-1" x="1152.5" y="417.5" width="100" height="100" transform="translate(2405 935) rotate(-180)"/>
+      <rect class="cls-1" x="1052.5" y="417.5" width="100" height="100" transform="translate(2205 935) rotate(-180)"/>
+      <rect class="cls-1" x="952.5" y="432.5" width="100" height="100" transform="translate(2005 965) rotate(-180)"/>
+      <rect class="cls-1" x="1202.5" y="317.5" width="100" height="100" transform="translate(2505 735) rotate(-180)"/>
+      <rect class="cls-1" x="1002.5" y="317.5" width="100" height="100" transform="translate(2105 735) rotate(-180)"/>
+      <rect class="cls-1" x="902.5" y="332.5" width="100" height="100" transform="translate(1905 765) rotate(-180)"/>
+      <rect class="cls-1" x="802.5" y="282.5" width="100" height="100" transform="translate(1705 665) rotate(-180)"/>
+      <rect class="cls-1" x="810.481" y="418.548" width="100" height="150" transform="translate(1852.453 490.733) rotate(150)"/>
+    </g>
+  </g>
+</svg>

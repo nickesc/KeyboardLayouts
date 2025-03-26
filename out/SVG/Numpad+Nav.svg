@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Macropads" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 405 655">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #f16364;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <g id="Numpad_Nav" data-name="Numpad+Nav">
+    <rect class="cls-1" x="2.5" y="152.5" width="100" height="100"/>
+    <rect class="cls-1" x="102.5" y="152.5" width="100" height="100"/>
+    <rect class="cls-1" x="202.5" y="152.5" width="100" height="100"/>
+    <rect class="cls-1" x="2.5" y="252.5" width="100" height="100"/>
+    <rect class="cls-1" x="102.5" y="252.5" width="100" height="100"/>
+    <rect class="cls-1" x="202.5" y="252.5" width="100" height="100"/>
+    <rect class="cls-1" x="2.5" y="352.5" width="100" height="100"/>
+    <rect class="cls-1" x="102.5" y="352.5" width="100" height="100"/>
+    <rect class="cls-1" x="202.5" y="352.5" width="100" height="100"/>
+    <rect class="cls-1" x="2.5" y="452.5" width="100" height="100"/>
+    <rect class="cls-1" x="102.5" y="452.5" width="100" height="100"/>
+    <rect class="cls-1" x="202.5" y="452.5" width="100" height="100"/>
+    <rect class="cls-1" x="202.5" y="552.5" width="100" height="100"/>
+    <rect class="cls-1" x="302.5" y="152.5" width="100" height="100"/>
+    <rect class="cls-1" x="2.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="102.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="202.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="302.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="302.5" y="252.5" width="100" height="200"/>
+    <rect class="cls-1" x="302.5" y="452.5" width="100" height="200"/>
+    <rect class="cls-1" x="2.5" y="552.5" width="200" height="100"/>
+  </g>
+</svg>

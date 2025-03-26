@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ergo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2074.709 806.172">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #f16364;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <g id="Ergodox">
+    <g>
+      <rect class="cls-1" x="2.5" y="62.656" width="150" height="100"/>
+      <rect class="cls-1" x="152.5" y="62.656" width="100" height="100"/>
+      <rect class="cls-1" x="252.5" y="32.656" width="100" height="100"/>
+      <rect class="cls-1" x="352.5" y="2.656" width="100" height="100"/>
+      <rect class="cls-1" x="452.5" y="32.656" width="100" height="100"/>
+      <rect class="cls-1" x="552.5" y="62.656" width="100" height="100"/>
+      <rect class="cls-1" x="652.5" y="62.656" width="100" height="100"/>
+      <rect class="cls-1" x="2.5" y="162.656" width="150" height="100"/>
+      <rect class="cls-1" x="152.5" y="162.656" width="100" height="100"/>
+      <rect class="cls-1" x="252.5" y="132.656" width="100" height="100"/>
+      <rect class="cls-1" x="352.5" y="102.656" width="100" height="100"/>
+      <rect class="cls-1" x="452.5" y="132.656" width="100" height="100"/>
+      <rect class="cls-1" x="552.5" y="162.656" width="100" height="100"/>
+      <rect class="cls-1" x="652.5" y="162.656" width="100" height="150"/>
+      <rect class="cls-1" x="2.5" y="262.656" width="150" height="100"/>
+      <rect class="cls-1" x="152.5" y="262.656" width="100" height="100"/>
+      <rect class="cls-1" x="252.5" y="232.656" width="100" height="100"/>
+      <rect class="cls-1" x="352.5" y="202.656" width="100" height="100"/>
+      <rect class="cls-1" x="452.5" y="232.656" width="100" height="100"/>
+      <rect class="cls-1" x="552.5" y="262.656" width="100" height="100"/>
+      <rect class="cls-1" x="2.5" y="362.656" width="150" height="100"/>
+      <rect class="cls-1" x="152.5" y="362.656" width="100" height="100"/>
+      <rect class="cls-1" x="252.5" y="332.656" width="100" height="100"/>
+      <rect class="cls-1" x="352.5" y="302.656" width="100" height="100"/>
+      <rect class="cls-1" x="452.5" y="332.656" width="100" height="100"/>
+      <rect class="cls-1" x="552.5" y="362.656" width="100" height="100"/>
+      <rect class="cls-1" x="652.5" y="312.656" width="100" height="150"/>
+      <rect class="cls-1" x="52.5" y="462.656" width="100" height="100"/>
+      <rect class="cls-1" x="152.5" y="462.656" width="100" height="100"/>
+      <rect class="cls-1" x="252.5" y="432.656" width="100" height="100"/>
+      <rect class="cls-1" x="352.5" y="402.656" width="100" height="100"/>
+      <rect class="cls-1" x="452.5" y="432.656" width="100" height="100"/>
+      <rect class="cls-1" x="898.269" y="500.944" width="100" height="100" transform="translate(245.621 -291.101) rotate(20)"/>
+      <rect class="cls-1" x="804.299" y="466.742" width="100" height="100" transform="translate(228.257 -261.024) rotate(20)"/>
+      <rect class="cls-1" x="864.067" y="594.913" width="100" height="100" transform="translate(275.698 -273.736) rotate(20)"/>
+      <rect class="cls-1" x="752.996" y="557.695" width="100" height="200" transform="translate(273.372 -234.977) rotate(20)"/>
+      <rect class="cls-1" x="659.027" y="523.493" width="100" height="200" transform="translate(256.007 -204.9) rotate(20)"/>
+      <rect class="cls-1" x="829.865" y="688.882" width="100" height="100" transform="translate(305.775 -256.371) rotate(20)"/>
+    </g>
+    <g>
+      <rect class="cls-1" x="1922.209" y="62.5" width="150" height="100" transform="translate(3994.417 225) rotate(-180)"/>
+      <rect class="cls-1" x="1822.209" y="62.5" width="100" height="100" transform="translate(3744.417 225) rotate(-180)"/>
+      <rect class="cls-1" x="1722.209" y="32.5" width="100" height="100" transform="translate(3544.417 165) rotate(-180)"/>
+      <rect class="cls-1" x="1622.209" y="2.5" width="100" height="100" transform="translate(3344.417 105) rotate(-180)"/>
+      <rect class="cls-1" x="1522.209" y="32.5" width="100" height="100" transform="translate(3144.417 165) rotate(-180)"/>
+      <rect class="cls-1" x="1422.209" y="62.5" width="100" height="100" transform="translate(2944.417 225) rotate(-180)"/>
+      <rect class="cls-1" x="1322.209" y="62.5" width="100" height="100" transform="translate(2744.417 225) rotate(-180)"/>
+      <rect class="cls-1" x="1922.209" y="162.5" width="150" height="100" transform="translate(3994.417 425) rotate(-180)"/>
+      <rect class="cls-1" x="1822.209" y="162.5" width="100" height="100" transform="translate(3744.417 425) rotate(-180)"/>
+      <rect class="cls-1" x="1722.209" y="132.5" width="100" height="100" transform="translate(3544.417 365) rotate(-180)"/>
+      <rect class="cls-1" x="1622.209" y="102.5" width="100" height="100" transform="translate(3344.417 305) rotate(-180)"/>
+      <rect class="cls-1" x="1522.209" y="132.5" width="100" height="100" transform="translate(3144.417 365) rotate(-180)"/>
+      <rect class="cls-1" x="1422.209" y="162.5" width="100" height="100" transform="translate(2944.417 425) rotate(-180)"/>
+      <rect class="cls-1" x="1322.209" y="162.5" width="100" height="150" transform="translate(2744.417 475) rotate(-180)"/>
+      <rect class="cls-1" x="1922.209" y="262.5" width="150" height="100" transform="translate(3994.417 625) rotate(-180)"/>
+      <rect class="cls-1" x="1822.209" y="262.5" width="100" height="100" transform="translate(3744.417 625) rotate(-180)"/>
+      <rect class="cls-1" x="1722.209" y="232.5" width="100" height="100" transform="translate(3544.417 565) rotate(-180)"/>
+      <rect class="cls-1" x="1622.209" y="202.5" width="100" height="100" transform="translate(3344.417 505) rotate(-180)"/>
+      <rect class="cls-1" x="1522.209" y="232.5" width="100" height="100" transform="translate(3144.417 565) rotate(-180)"/>
+      <rect class="cls-1" x="1422.209" y="262.5" width="100" height="100" transform="translate(2944.417 625) rotate(-180)"/>
+      <rect class="cls-1" x="1922.209" y="362.5" width="150" height="100" transform="translate(3994.417 825) rotate(-180)"/>
+      <rect class="cls-1" x="1822.209" y="362.5" width="100" height="100" transform="translate(3744.417 825) rotate(-180)"/>
+      <rect class="cls-1" x="1722.209" y="332.5" width="100" height="100" transform="translate(3544.417 765) rotate(-180)"/>
+      <rect class="cls-1" x="1622.209" y="302.5" width="100" height="100" transform="translate(3344.417 705) rotate(-180)"/>
+      <rect class="cls-1" x="1522.209" y="332.5" width="100" height="100" transform="translate(3144.417 765) rotate(-180)"/>
+      <rect class="cls-1" x="1422.209" y="362.5" width="100" height="100" transform="translate(2944.417 825) rotate(-180)"/>
+      <rect class="cls-1" x="1322.209" y="312.5" width="100" height="150" transform="translate(2744.417 775) rotate(-180)"/>
+      <rect class="cls-1" x="1922.209" y="462.5" width="100" height="100" transform="translate(3944.417 1025) rotate(-180)"/>
+      <rect class="cls-1" x="1822.209" y="462.5" width="100" height="100" transform="translate(3744.417 1025) rotate(-180)"/>
+      <rect class="cls-1" x="1722.209" y="432.5" width="100" height="100" transform="translate(3544.417 965) rotate(-180)"/>
+      <rect class="cls-1" x="1622.209" y="402.5" width="100" height="100" transform="translate(3344.417 905) rotate(-180)"/>
+      <rect class="cls-1" x="1522.209" y="432.5" width="100" height="100" transform="translate(3144.417 965) rotate(-180)"/>
+      <rect class="cls-1" x="1076.44" y="500.788" width="100" height="100" transform="translate(2373.328 683.094) rotate(160)"/>
+      <rect class="cls-1" x="1170.409" y="466.586" width="100" height="100" transform="translate(2543.901 584.613) rotate(160)"/>
+      <rect class="cls-1" x="1110.642" y="594.757" width="100" height="100" transform="translate(2471.809 853.667) rotate(160)"/>
+      <rect class="cls-1" x="1221.712" y="557.54" width="100" height="200" transform="translate(2691.623 840.473) rotate(160)"/>
+      <rect class="cls-1" x="1315.682" y="523.338" width="100" height="200" transform="translate(2862.196 741.993) rotate(160)"/>
+      <rect class="cls-1" x="1144.844" y="688.726" width="100" height="100" transform="translate(2570.289 1024.241) rotate(160)"/>
+    </g>
+  </g>
+</svg>

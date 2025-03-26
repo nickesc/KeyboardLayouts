@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Macropads" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 305 205">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #f16364;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <g id="_4_Paw_Arrows" data-name="4%/Paw/Arrows">
+    <rect class="cls-1" x="102.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="2.5" y="102.5" width="100" height="100"/>
+    <rect class="cls-1" x="102.5" y="102.5" width="100" height="100"/>
+    <rect class="cls-1" x="202.5" y="102.5" width="100" height="100"/>
+  </g>
+</svg>

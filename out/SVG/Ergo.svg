@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ergo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1804 595.572">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #f16364;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <g id="Ergo-2" data-name="Ergo">
+    <rect class="cls-1" x="182.5" y="16.5" width="100" height="100"/>
+    <rect class="cls-1" x="2.5" y="202.5" width="100" height="100"/>
+    <rect class="cls-1" x="17.5" y="102.234" width="100" height="100"/>
+    <rect class="cls-1" x="32.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="167.5" y="116.5" width="150" height="100"/>
+    <rect class="cls-1" x="152.5" y="216.5" width="175" height="100"/>
+    <rect class="cls-1" x="317.5" y="116.5" width="100" height="100"/>
+    <rect class="cls-1" x="327.5" y="216.5" width="100" height="100"/>
+    <rect class="cls-1" x="357.5" y="316.5" width="100" height="100"/>
+    <g>
+      <rect class="cls-1" x="469.209" y="326.423" width="100" height="100" transform="translate(73.253 -84.441) rotate(10)"/>
+      <rect class="cls-1" x="567.689" y="343.787" width="100" height="100" transform="translate(77.765 -101.278) rotate(10)"/>
+      <rect class="cls-1" x="666.17" y="361.152" width="100" height="100" transform="translate(82.276 -118.115) rotate(10)"/>
+      <rect class="cls-1" x="764.651" y="378.517" width="100" height="100" transform="translate(86.788 -134.953) rotate(10)"/>
+    </g>
+    <rect class="cls-1" x="1326.5" y="316.5" width="100" height="100"/>
+    <rect class="cls-1" x="1426.5" y="316.5" width="100" height="100"/>
+    <rect class="cls-1" x="1526.5" y="316.5" width="275" height="100"/>
+    <g>
+      <rect class="cls-1" x="438.7" y="219.451" width="100" height="100" transform="translate(54.214 -80.768) rotate(10)"/>
+      <rect class="cls-1" x="537.181" y="236.816" width="100" height="100" transform="translate(58.726 -97.606) rotate(10)"/>
+      <rect class="cls-1" x="635.662" y="254.181" width="100" height="100" transform="translate(63.237 -114.443) rotate(10)"/>
+      <rect class="cls-1" x="734.142" y="271.546" width="100" height="100" transform="translate(67.749 -131.28) rotate(10)"/>
+    </g>
+    <rect class="cls-1" x="1350.5" y="216.5" width="100" height="100"/>
+    <rect class="cls-1" x="1450.5" y="216.5" width="100" height="100"/>
+    <rect class="cls-1" x="1550.5" y="216.5" width="225" height="100"/>
+    <rect class="cls-1" x="132.5" y="316.5" width="225" height="100"/>
+    <rect class="cls-1" x="132.5" y="416.5" width="150" height="100"/>
+    <rect class="cls-1" x="420.577" y="429.976" width="150" height="100" transform="translate(90.876 -78.764) rotate(10)"/>
+    <rect class="cls-1" x="568.918" y="454.365" width="200" height="100" transform="translate(97.744 -108.494) rotate(10)"/>
+    <g>
+      <rect class="cls-1" x="1203.942" y="432.221" width="150" height="100" transform="translate(-64.307 229.412) rotate(-10)"/>
+      <rect class="cls-1" x="930.17" y="459.121" width="275" height="100" transform="translate(-72.188 193.134) rotate(-10)"/>
+    </g>
+    <rect class="cls-1" x="766.45" y="482.583" width="125" height="100" transform="translate(105.076 -135.854) rotate(10)"/>
+    <rect class="cls-1" x="1625.5" y="416.5" width="150" height="100"/>
+    <g>
+      <rect class="cls-1" x="429.217" y="116.234" width="100" height="100" transform="translate(36.147 -80.69) rotate(10)"/>
+      <rect class="cls-1" x="527.698" y="133.599" width="100" height="100" transform="translate(40.658 -97.527) rotate(10)"/>
+      <rect class="cls-1" x="626.178" y="150.964" width="100" height="100" transform="translate(45.17 -114.364) rotate(10)"/>
+      <rect class="cls-1" x="724.659" y="168.329" width="100" height="100" transform="translate(49.681 -131.201) rotate(10)"/>
+    </g>
+    <rect class="cls-1" x="1314.5" y="109.5" width="100" height="100"/>
+    <rect class="cls-1" x="1414.5" y="116.5" width="100" height="100"/>
+    <rect class="cls-1" x="1514.5" y="116.5" width="100" height="100"/>
+    <rect class="cls-1" x="1614.5" y="116.5" width="150" height="100"/>
+    <rect class="cls-1" x="282.5" y="16.5" width="100" height="100"/>
+    <rect class="cls-1" x="382.5" y="5.5" width="100" height="100"/>
+    <g>
+      <rect class="cls-1" x="493.594" y="26.04" width="100" height="100" transform="translate(21.463 -93.239) rotate(10)"/>
+      <rect class="cls-1" x="592.075" y="43.405" width="100" height="100" transform="translate(25.974 -110.076) rotate(10)"/>
+      <rect class="cls-1" x="690.556" y="60.77" width="100" height="100" transform="translate(30.486 -126.913) rotate(10)"/>
+      <rect class="cls-1" x="789.036" y="78.135" width="100" height="100" transform="translate(34.997 -143.75) rotate(10)"/>
+    </g>
+    <rect class="cls-1" x="1347.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="1447.5" y="16.5" width="100" height="100"/>
+    <rect class="cls-1" x="1547.5" y="16.5" width="200" height="100"/>
+    <g>
+      <rect class="cls-1" x="1012.616" y="358.47" width="100" height="100" transform="translate(-54.787 190.727) rotate(-10)"/>
+      <rect class="cls-1" x="914.135" y="375.835" width="100" height="100" transform="translate(-59.298 173.89) rotate(-10)"/>
+      <rect class="cls-1" x="1111.096" y="341.105" width="100" height="100" transform="translate(-50.275 207.564) rotate(-10)"/>
+      <rect class="cls-1" x="1209.577" y="323.74" width="100" height="100" transform="translate(-45.764 224.401) rotate(-10)"/>
+    </g>
+    <g>
+      <rect class="cls-1" x="939.135" y="269.817" width="100" height="100" transform="translate(-40.509 176.62) rotate(-10)"/>
+      <rect class="cls-1" x="1037.616" y="252.453" width="100" height="100" transform="translate(-35.997 193.457) rotate(-10)"/>
+      <rect class="cls-1" x="1136.096" y="235.088" width="100" height="100" transform="translate(-31.486 210.295) rotate(-10)"/>
+      <rect class="cls-1" x="1234.577" y="217.723" width="100" height="100" transform="translate(-26.974 227.132) rotate(-10)"/>
+    </g>
+    <g>
+      <rect class="cls-1" x="906.135" y="174.036" width="100" height="100" transform="translate(-24.378 169.435) rotate(-10)"/>
+      <rect class="cls-1" x="1004.616" y="156.672" width="100" height="100" transform="translate(-19.866 186.272) rotate(-10)"/>
+      <rect class="cls-1" x="1103.096" y="139.307" width="100" height="100" transform="translate(-15.355 203.109) rotate(-10)"/>
+      <rect class="cls-1" x="1201.577" y="121.942" width="100" height="100" transform="translate(-10.843 219.946) rotate(-10)"/>
+    </g>
+    <g>
+      <rect class="cls-1" x="937.135" y="67.036" width="100" height="100" transform="translate(-5.326 173.192) rotate(-10)"/>
+      <rect class="cls-1" x="1035.616" y="49.672" width="100" height="100" transform="translate(-.815 190.029) rotate(-10)"/>
+      <rect class="cls-1" x="1134.096" y="32.307" width="100" height="100" transform="translate(3.697 206.867) rotate(-10)"/>
+      <rect class="cls-1" x="1232.577" y="14.942" width="100" height="100" transform="translate(8.208 223.704) rotate(-10)"/>
+    </g>
+  </g>
+</svg>

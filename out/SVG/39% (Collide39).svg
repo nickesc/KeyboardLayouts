@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Ortho" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1305 305">
+  <defs>
+    <style>
+      .cls-1 {
+        stroke-width: 5px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fff;
+        stroke: #f16364;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-2 {
+        stroke-width: 3.536px;
+      }
+    </style>
+  </defs>
+  <g id="_39_Collide39_" data-name="39% (Collide39)">
+    <rect class="cls-1" x="102.5" y="202.5" width="100" height="100"/>
+    <rect class="cls-1" x="202.5" y="202.5" width="100" height="100"/>
+    <rect class="cls-1" x="302.5" y="202.5" width="100" height="100"/>
+    <rect class="cls-1" x="402.5" y="202.5" width="100" height="100"/>
+    <rect class="cls-1" x="502.5" y="202.5" width="100" height="100"/>
+    <rect class="cls-2" x="602.5" y="202.5" width="100" height="100"/>
+    <rect class="cls-2" x="702.5" y="202.5" width="100" height="100"/>
+    <rect class="cls-1" x="802.5" y="202.5" width="100" height="100"/>
+    <rect class="cls-1" x="902.5" y="202.5" width="100" height="100"/>
+    <rect class="cls-1" x="1002.5" y="202.5" width="100" height="100"/>
+    <rect class="cls-1" x="1102.5" y="202.5" width="100" height="100"/>
+    <rect class="cls-1" x="1202.5" y="202.5" width="100" height="100"/>
+    <rect class="cls-1" x="102.5" y="102.5" width="100" height="100"/>
+    <rect class="cls-1" x="202.5" y="102.5" width="100" height="100"/>
+    <rect class="cls-1" x="302.5" y="102.5" width="100" height="100"/>
+    <rect class="cls-1" x="402.5" y="102.5" width="100" height="100"/>
+    <rect class="cls-1" x="502.5" y="102.5" width="100" height="100"/>
+    <rect class="cls-1" x="602.5" y="102.5" width="100" height="100"/>
+    <rect class="cls-1" x="702.5" y="102.5" width="100" height="100"/>
+    <rect class="cls-1" x="802.5" y="102.5" width="100" height="100"/>
+    <rect class="cls-1" x="902.5" y="102.5" width="100" height="100"/>
+    <rect class="cls-1" x="1002.5" y="102.5" width="100" height="100"/>
+    <rect class="cls-1" x="1102.5" y="102.5" width="100" height="100"/>
+    <rect class="cls-1" x="1202.5" y="102.5" width="100" height="100"/>
+    <rect class="cls-1" x="102.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="202.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="302.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="402.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="502.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="602.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="702.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="802.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="902.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="1002.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="1102.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="1202.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="2.5" y="2.5" width="100" height="100"/>
+    <rect class="cls-1" x="2.5" y="102.5" width="100" height="100"/>
+    <rect class="cls-1" x="2.5" y="202.5" width="100" height="100"/>
+  </g>
+</svg>
