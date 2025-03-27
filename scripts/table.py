@@ -36,7 +36,7 @@ for folder in files_by_folder.keys():
 
     for file in files_by_folder[folder]:
         if file!=".DS_Store":
-            folderStr=folderStr + "<a href='" + directory_path + "/" + folder.replace("%", "%25") + "/" + file.replace("%", "%25") +"'><img src='" + directory_path + "/" + folder.replace("%", "%25") + "/" + file.replace("%", "%25") +"' alt='"+ file+"'><br>"+ file.replace(".svg","") +"</a> | "
+            folderStr=folderStr + "<a href='" + directory_path + "/" + folder.replace("%", "%25") + "/" + file.replace("%", "%25") +"'><img src='" + directory_path + "/" + folder.replace("%", "%25") + "/" + file.replace("%", "%25") +"' alt='"+ file+"'><br>"+ file.replace("-","/").replace(".svg","") +"</a> | "
 
     cats[folder] = folderStr
 
