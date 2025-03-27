@@ -6,27 +6,12 @@ def list_files_by_folder(base_directory):
     for root, _, files in os.walk(base_directory):
         relative_path = os.path.relpath(root, base_directory)
         if relative_path == ".":
-            continue  # Skip the base directory itself
+            continue  # Skip the base directory
         folder_dict[relative_path] = files
 
     return folder_dict
 
-# Example usage
-import os
-
-def list_files_by_folder(base_directory):
-    folder_dict = {}
-
-    for root, _, files in os.walk(base_directory):
-        relative_path = os.path.relpath(root, base_directory)
-        if relative_path == ".":
-            continue  # Skip the base directory itself
-        folder_dict[relative_path] = files
-
-    return folder_dict
-
-# Example usage
-directory_path = "out/SVG"  # Change this to your target directory
+directory_path = "out/SVG"  # target directory
 files_by_folder = list_files_by_folder(directory_path)
 
 cats = {"40%-50%":"40%-50%","60%-75%":"60%-75%","1800 & 96%":"1800 & 96%","TKL-110%":"TKL-110%","Southpaw":"Southpaw","Regional":"Regional","Ergo":"Ergo", "Ortho":"Ortho", "Big Boards":"Big Boards","Macropads":"Macropads"}
